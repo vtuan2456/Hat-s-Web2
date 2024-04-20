@@ -13,6 +13,12 @@
 </head>
 
 <body>
+   <?php>  
+      include("page/header.php");
+      include("page/banner.php");
+      include("page/main.php");
+      include("page/footer.php");
+   ?>
 
   
 
